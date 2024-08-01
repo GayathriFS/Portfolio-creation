@@ -4,7 +4,7 @@ Created portfolio which includes my skills and projects developed.From home page
 
 **Pages:
 Home
-Contact**
+Contact page**
 
 **Technologies used:**
 HTML5
